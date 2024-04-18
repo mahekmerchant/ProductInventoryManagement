@@ -3,9 +3,9 @@
 
 **Running the API**
 1. Prerequisites:
-  - Visual Studio 2022
-  - Install .NET 6 SDK if you haven’t already.
-  - Ensure you have a SQL Server instance.
+    - Visual Studio 2022
+    - Install .NET 6 SDK if you haven’t already.
+    - Ensure you have a SQL Server instance.
 2. Clone the Repository: Clone your project repository to your local machine.
 3. Configure Database Connection:
   - Open the appsettings.json file in your project.
