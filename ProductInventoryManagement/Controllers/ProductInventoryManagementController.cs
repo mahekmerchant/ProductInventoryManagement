@@ -56,9 +56,9 @@ namespace ProductInventoryManagement.Controllers
         }
 
         /// <summary>
-        /// Get all the products from the inventory
+        /// Gets the products from the inventory using pagination
         /// </summary>
-        /// <param name="productInventoryManagementPagingParameters"></param>
+        /// <param name="productInventoryManagementPagingParameters">Null Parameter Error: The filter or paging parameters cannot be null</param>
         /// <returns></returns>
         [Route("GetProductsFromInventoryUsingPaging")]
         [HttpGet]
