@@ -26,7 +26,8 @@
       - dotnet run
 7. API Endpoints:
     - Use Swagger for API documentation at https://localhost:7117/swagger/index.html
-       - ![screenshot](Swagger.png)
+      
+        ![screenshot](Swagger.png)
     - You can test them using tools like Postman or your browser.
 8. Sample Request:
     - Get all the products from the inventory:
